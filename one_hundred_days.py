@@ -10,8 +10,8 @@
 # Day 1: Printing, Commenting, Debugging, String Manipulation and Variables
 # Day 2: Data types, Numbers, Operations, Type Conversions, and f-strings
 # Day 3: Conditional Statements, Logical Operators, Code Blocks, and Scope
-# Day 4:
-# Day 5:
+# Day 4: Randomization & Python Lists
+# Day 5: For Loops, Range and Code Blocks
 # Day 6:
 # Day 7:
 # Day 8:
