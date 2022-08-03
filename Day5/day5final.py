@@ -39,9 +39,15 @@ print(f"Total length of password is: {total} characters")
 #create copy of pswd and store in new1
 new1 = pswd[:]
 shuffle(new1)
+
+print(type(new1))
 print(f"Your new password is: {new1}")
 
 #alt way to shuffle
 
 """ new2 = sample(pswd, len(pswd))
 print(new2) """
+
+#convert list of characters to string
+new4 = ''.join(new1)
+print(new4)
