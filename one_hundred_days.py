@@ -13,7 +13,7 @@
 # Day 4: Randomization & Python Lists
 # Day 5: For Loops, Range and Code Blocks
 # Day 6: Functions, Code Blocks and While Loops
-# Day 7:
+# Day 7: Hangman
 # Day 8:
 # Day 9:
 # Day 10:
